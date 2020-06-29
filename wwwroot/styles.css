@@ -1,0 +1,24 @@
+﻿html {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0 25px;
+    border: 0;
+}
+
+#error {
+    color: red;
+    display: none;
+    font-size: 1.5em;
+}
+
+img {
+    padding: 2px;
+    max-height: 300px;
+    max-width: 300px;
+}
+
+#images {
+    display: inline-block;
+}
